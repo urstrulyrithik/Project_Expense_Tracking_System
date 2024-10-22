@@ -1,0 +1,262 @@
+2024-10-20 20:36:41,640 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-20 20:36:41,658 - db_helper - INFO - insert_expense called with date:2024-08-25, amount:40, category:Random, notes:Eat tasty samosa chat
+2024-10-20 20:36:41,669 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-25
+2024-10-20 20:39:02,137 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-20 20:39:02,150 - db_helper - INFO - insert_expense called with date:2024-08-25, amount:40, category:Random, notes:Eat tasty samosa chat
+2024-10-20 20:39:02,160 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-25
+2024-10-20 20:41:22,177 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-20 20:41:22,194 - db_helper - INFO - insert_expense called with date:2024-08-25, amount:40, category:Random, notes:Eat tasty samosa chat
+2024-10-20 20:41:22,203 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-25
+2024-10-20 20:42:03,489 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-20 20:42:03,506 - db_helper - INFO - insert_expense called with date:2024-08-25, amount:40, category:Random, notes:Eat tasty samosa chat
+2024-10-20 20:42:03,516 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-25
+2024-10-20 20:48:11,561 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-10-20 20:48:58,446 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-20 20:48:58,460 - db_helper - INFO - insert_expense called with date:2024-08-25, amount:40, category:Random, notes:Eat tasty samosa chat
+2024-10-20 20:48:58,469 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-25
+2024-10-20 20:50:16,997 - db_helper - INFO - delete_expenses_for_date called with 2024-08-09
+2024-10-20 20:50:17,010 - db_helper - INFO - insert_expense called with date:2024-08-09, amount:3324.0, category:Rent, notes:Monthly rent payment
+2024-10-20 20:50:17,020 - db_helper - INFO - insert_expense called with date:2024-08-09, amount:3008.0, category:Food, notes:Groceries for the week
+2024-10-20 20:53:39,392 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-10-20 20:55:14,379 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-10-21 00:40:36,874 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-21 00:41:23,895 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-10-21 00:41:33,709 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-10
+2024-10-21 00:42:05,652 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-10
+2024-10-21 00:42:33,037 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2024-10-21 00:42:36,205 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-05
+2024-10-21 00:42:39,081 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-04
+2024-10-21 00:42:41,687 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-10-21 00:42:43,177 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-10
+2024-10-21 00:42:44,876 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-21
+2024-10-21 00:42:46,369 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-10-21 00:42:47,556 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-08
+2024-10-21 00:42:48,879 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 00:50:11,356 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 00:50:41,108 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 00:51:33,395 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 00:51:35,670 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-10-21 00:52:53,225 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-10-21 00:53:32,466 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-10-21 00:55:20,965 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-10-21 00:56:20,402 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-10-21 01:01:34,570 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-10-21 01:01:46,606 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-05
+2024-10-21 01:01:48,657 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2024-10-21 01:01:50,441 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-10-21 01:01:52,045 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-08
+2024-10-21 01:01:53,903 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 01:02:41,396 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-10
+2024-10-21 01:02:44,663 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 01:02:46,405 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-10-21 01:03:25,293 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 01:12:42,137 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 01:13:23,728 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 01:13:23,755 - db_helper - INFO - delete_expenses_for_date called with 2024-08-07
+2024-10-21 01:13:23,764 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:2.0, category:Shopping, notes:nice
+2024-10-21 01:13:23,773 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:16.0, category:Rent, notes:good
+2024-10-21 01:13:23,780 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:4.0, category:Other, notes:perfect
+2024-10-21 01:13:23,788 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:8.0, category:Entertainment, notes:awesome
+2024-10-21 01:13:23,795 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:5.0, category:Food, notes:stunning
+2024-10-21 01:13:28,458 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-21 01:13:30,133 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 01:21:47,692 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-21 01:24:09,684 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-09
+2024-10-21 01:27:57,495 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 01:27:59,989 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 01:28:00,020 - db_helper - INFO - delete_expenses_for_date called with 2024-08-07
+2024-10-21 01:28:00,030 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:2.0, category:Shopping, notes:nice
+2024-10-21 01:28:00,037 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:16.0, category:Rent, notes:good
+2024-10-21 01:28:00,044 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:4.0, category:Other, notes:perfect
+2024-10-21 01:28:00,050 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:8.0, category:Entertainment, notes:awesome
+2024-10-21 01:28:00,057 - db_helper - INFO - insert_expense called with date:2024-08-07, amount:5.0, category:Food, notes:stunning
+2024-10-21 01:28:08,835 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-09
+2024-10-21 01:28:12,408 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-09
+2024-10-21 01:30:07,758 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-21 01:31:52,414 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-21 01:32:10,611 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-21 01:32:31,352 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-21 01:32:41,585 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-09
+2024-10-21 03:36:39,220 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:36:42,923 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:37:10,582 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:37:12,164 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:37:12,196 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-09
+2024-10-21 03:37:16,583 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:37:19,303 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:37:19,332 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-09
+2024-10-21 03:37:23,224 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:37:27,484 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:37:27,513 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-02
+2024-10-21 03:37:33,697 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:37:34,716 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:37:34,745 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-06
+2024-10-21 03:42:46,268 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:42:46,318 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-06
+2024-10-21 03:43:14,748 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:43:14,768 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-06
+2024-10-21 03:44:56,746 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:44:56,771 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-06
+2024-10-21 03:48:12,499 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:48:14,020 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:48:14,063 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-06
+2024-10-21 03:49:57,680 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:49:59,141 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:49:59,170 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-06
+2024-10-21 03:52:05,320 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:52:07,472 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:52:07,502 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-06
+2024-10-21 03:55:45,894 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:55:45,922 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-06
+2024-10-21 03:55:49,376 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:58:02,531 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:58:04,742 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:58:04,769 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-02 end: 2024-08-06
+2024-10-21 03:58:07,086 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:58:11,106 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:58:12,990 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:58:13,713 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 03:58:13,740 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-12 end: 2024-08-21
+2024-10-21 03:58:38,980 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-10
+2024-10-21 03:58:43,099 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-10
+2024-10-21 03:58:43,128 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-09
+2024-10-21 04:26:12,434 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:26:12,489 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:26:41,019 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:26:41,045 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-12 end: 2024-08-21
+2024-10-21 04:26:41,067 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:30:38,816 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:30:38,841 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-12 end: 2024-08-21
+2024-10-21 04:30:38,861 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:30:41,475 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:30:41,501 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:30:43,589 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:30:43,613 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:30:44,409 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:30:44,426 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-08
+2024-10-21 04:30:44,445 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:32:48,047 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:32:52,568 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:32:52,589 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-08
+2024-10-21 04:36:54,966 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:37:27,077 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-10-21 04:47:29,120 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-21 04:47:29,180 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:47:34,865 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-21 04:47:34,894 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-21 04:47:34,927 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:47:47,684 - db_helper - INFO - fetch_expenses_for_date called with 2024-05-08
+2024-10-21 04:47:47,709 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:47:59,211 - db_helper - INFO - fetch_expenses_for_date called with 2024-05-08
+2024-10-21 04:47:59,232 - db_helper - INFO - delete_expenses_for_date called with 2024-05-08
+2024-10-21 04:47:59,239 - db_helper - INFO - insert_expense called with date: 2024-05-08, amount: 344.0, category: Food, notes: rd
+2024-10-21 04:47:59,252 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:48:34,262 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-21 04:48:34,312 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:54:33,616 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-21 04:54:33,827 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-21 04:54:37,599 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-21 04:54:37,628 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-21 04:54:37,647 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 00:51:22,314 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 00:51:22,365 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 00:51:24,873 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 00:51:24,896 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2024-10-22 00:51:24,905 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2024-10-22 00:51:24,912 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2024-10-22 00:51:24,918 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2024-10-22 00:51:24,938 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2024-10-22 00:51:24,951 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 00:51:27,151 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 00:51:27,180 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-22 00:51:27,209 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:38:30,899 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:38:30,930 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:38:33,339 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:38:33,361 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2024-10-22 01:38:33,371 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2024-10-22 01:38:33,378 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2024-10-22 01:38:33,383 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2024-10-22 01:38:33,391 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2024-10-22 01:38:33,404 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:38:36,813 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:38:36,837 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-22 01:38:36,867 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:39:29,877 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:39:29,908 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:39:34,942 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:39:34,969 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-22 01:39:35,001 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:39:38,237 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:39:38,260 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2024-10-22 01:39:38,269 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2024-10-22 01:39:38,277 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2024-10-22 01:39:38,284 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2024-10-22 01:39:38,291 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2024-10-22 01:39:38,304 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:41:35,533 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:41:35,557 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:41:38,658 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:41:38,684 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:41:41,730 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:41:41,752 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:41:44,369 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:41:44,389 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2024-10-22 01:41:44,398 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2024-10-22 01:41:44,406 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2024-10-22 01:41:44,413 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2024-10-22 01:41:44,419 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2024-10-22 01:41:44,431 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:41:48,718 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:41:48,747 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-22 01:41:48,777 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:55:58,570 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:55:58,599 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:56:12,249 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:56:12,271 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:56:34,715 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:56:34,736 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:58:48,619 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:58:48,641 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:59:05,612 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:59:05,633 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:59:14,786 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 01:59:14,811 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-22 01:59:14,839 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 01:59:35,220 - db_helper - INFO - fetch_expenses_for_date called with 2024-05-18
+2024-10-22 01:59:35,245 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 02:00:08,215 - db_helper - INFO - fetch_expenses_for_date called with 2024-05-18
+2024-10-22 02:00:08,239 - db_helper - INFO - delete_expenses_for_date called with 2024-05-18
+2024-10-22 02:00:08,247 - db_helper - INFO - insert_expense called with date: 2024-05-18, amount: 455.0, category: Rent, notes: 
+2024-10-22 02:00:08,256 - db_helper - INFO - insert_expense called with date: 2024-05-18, amount: 300.0, category: Shopping, notes: 
+2024-10-22 02:00:08,263 - db_helper - INFO - insert_expense called with date: 2024-05-18, amount: 350.0, category: Food, notes: 
+2024-10-22 02:00:08,271 - db_helper - INFO - insert_expense called with date: 2024-05-18, amount: 200.0, category: Entertainment, notes: 
+2024-10-22 02:00:08,276 - db_helper - INFO - insert_expense called with date: 2024-05-18, amount: 120.0, category: Other, notes: 
+2024-10-22 02:00:08,289 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 02:00:13,421 - db_helper - INFO - fetch_expenses_for_date called with 2024-05-18
+2024-10-22 02:00:13,443 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-22 02:00:13,474 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 02:00:28,555 - db_helper - INFO - fetch_expenses_for_date called with 2024-05-31
+2024-10-22 02:00:28,577 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 02:00:33,540 - db_helper - INFO - fetch_expenses_for_date called with 2024-05-31
+2024-10-22 02:00:33,561 - db_helper - INFO - delete_expenses_for_date called with 2024-05-31
+2024-10-22 02:00:33,568 - db_helper - INFO - insert_expense called with date: 2024-05-31, amount: 4000.0, category: Shopping, notes: 
+2024-10-22 02:00:33,581 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 02:00:42,155 - db_helper - INFO - fetch_expenses_for_date called with 2024-06-05
+2024-10-22 02:00:42,175 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 02:00:47,943 - db_helper - INFO - fetch_expenses_for_date called with 2024-06-05
+2024-10-22 02:00:47,971 - db_helper - INFO - delete_expenses_for_date called with 2024-06-05
+2024-10-22 02:00:47,978 - db_helper - INFO - insert_expense called with date: 2024-06-05, amount: 4000.0, category: Shopping, notes: 
+2024-10-22 02:00:47,986 - db_helper - INFO - insert_expense called with date: 2024-06-05, amount: 300.0, category: Rent, notes: 
+2024-10-22 02:00:47,997 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 02:00:57,105 - db_helper - INFO - fetch_expenses_for_date called with 2024-07-17
+2024-10-22 02:00:57,128 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 02:01:11,596 - db_helper - INFO - fetch_expenses_for_date called with 2024-07-17
+2024-10-22 02:01:11,620 - db_helper - INFO - delete_expenses_for_date called with 2024-07-17
+2024-10-22 02:01:11,627 - db_helper - INFO - insert_expense called with date: 2024-07-17, amount: 4000.0, category: Shopping, notes: 
+2024-10-22 02:01:11,636 - db_helper - INFO - insert_expense called with date: 2024-07-17, amount: 300.0, category: Rent, notes: 
+2024-10-22 02:01:11,645 - db_helper - INFO - insert_expense called with date: 2024-07-17, amount: 450.0, category: Entertainment, notes: 
+2024-10-22 02:01:11,651 - db_helper - INFO - insert_expense called with date: 2024-07-17, amount: 0.007, category: Food, notes: 
+2024-10-22 02:01:11,661 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-22 02:02:00,479 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-22 02:02:00,497 - db_helper - INFO - fetch_expense_summary_by_months
