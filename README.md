@@ -43,3 +43,12 @@ This project is an expense management system that consists of a Streamlit fronte
 
 ### Monthly Analytics Page
 ![MonthlyAnalytics](assets/images/monthly_analytics.png)
+
+## Contributing
+Feel free to contribute to the project by opening issues and pull requests. Any additional features, optimizations, or error fixes are always welcome!
+
+## Contact
+For any questions, feel free to reach out at:
+- **Email**: urstrulyrithik@gmail.com
+- **LinkedIn**: [Rithik Reddy](https://www.linkedin.com/in/rithikreddypv)
+- **GitHub**: [rithikreddy](https://github.com/urstrulyrithik)
